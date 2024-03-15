@@ -6,9 +6,12 @@
 ```
 pip install psutil
 ```
+
 - Next type the following command:
 
+```
 sudo apt update && sudo apt upgrade
+```
 
 - Then press y and press ENTER key
 
